@@ -24,7 +24,7 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 *a) Identified irrelevant records containing markets_name "New York" and "Paris"*
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/9ed9cfb1-7edc-4d0c-9ae6-1ac074e72bf7" />
+![irrelevant records](https://github.com/user-attachments/assets/9ed9cfb1-7edc-4d0c-9ae6-1ac074e72bf7)
 
 *b) Identified records containing currency value "USD" instead of "INR".*
 
