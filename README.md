@@ -16,7 +16,8 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 1)Imported data into MySQL Workbench form an already existing MySQL file and loaded the sales database onto MySQL.
 
-<img width="158" alt="image" src="https://github.com/user-attachments/assets/6845e692-e187-4e72-a26e-94683e4ff3e8" />
+![Database Image](https://github.com/user-attachments/assets/6845e692-e187-4e72-a26e-94683e4ff3e8)
+
 
 
 2)Analysed the various tables using SQL queries in order to prepare for data cleaning and gathered the following insights.
