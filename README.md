@@ -18,11 +18,23 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 <img width="158" alt="image" src="https://github.com/user-attachments/assets/6845e692-e187-4e72-a26e-94683e4ff3e8" />
 
+
 2)Analysed the various tables using SQL queries in order to prepare for data cleaning and gathered the following insights.
 
       a) Identified irrelevant records containing markets_name "New York" and "Paris".
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/a665ce44-305b-47a3-85b7-a9e009093d79" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/9ed9cfb1-7edc-4d0c-9ae6-1ac074e72bf7" />
+
+      b) Identified records containing USD instead of INR
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/08cf2e11-b776-446e-bc5a-f01e45e14ccb" />
+
+      c) Identified records having sales_amount <= 0
+
+ <img width="959" alt="image" src="https://github.com/user-attachments/assets/dd72715b-986e-4f36-8100-c0da66ee2280" />
+     
+      
+      
 
 
 
