@@ -29,7 +29,7 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/08cf2e11-b776-446e-bc5a-f01e45e14ccb" />
 
- *c) Identified records having sales_amount <= 0*
+ *c) Identified records having "sales_amount <= 0"*
 
  <img width="959" alt="image" src="https://github.com/user-attachments/assets/dd72715b-986e-4f36-8100-c0da66ee2280" />
 
