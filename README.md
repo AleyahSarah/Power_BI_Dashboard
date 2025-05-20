@@ -10,6 +10,9 @@ Previously, all insights about company performance were gathered verbally over t
 
 The company finds that its overall sales are declining and it is unable to make sense of its numbers due to the huge volumes presented in multiple excel files. Moreover, the company is unable to identify the areas on which it must focus due to the poor quality of insights.
 
+(*Note: "Technium Hardware" is a fictional brand name used for demonstration purposes in this project.*)
+
+
 ## Required Solution
 
  Tecchnium Hardware wants to create an effective and simple interactive dashboard from which it can easily understand and gather important insights from its business in order to improve performance.
