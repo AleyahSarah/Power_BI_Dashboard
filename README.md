@@ -1,6 +1,6 @@
-**Sales Insights for Atliq Hardware**
+# Sales Insights for Atliq Hardware
 
-**Problem Statement:**
+## Problem Statement:
 
 Atliq Hardware is a company that supplies computer hardware and peripherals to many clients across India. Atliq Hardware has its head office in Delhi and it has many regional offices all over India.
 
