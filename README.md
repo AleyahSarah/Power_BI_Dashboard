@@ -28,16 +28,16 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 *b) Identified records containing currency value "USD" instead of "INR".*
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/08cf2e11-b776-446e-bc5a-f01e45e14ccb" />
+![irrelevant records](https://github.com/user-attachments/assets/08cf2e11-b776-446e-bc5a-f01e45e14ccb)
 
  *c) Identified records having "sales_amount <= 0"*
 
- <img width="959" alt="image" src="https://github.com/user-attachments/assets/dd72715b-986e-4f36-8100-c0da66ee2280" />
+ ![irrelevan records](https://github.com/user-attachments/assets/dd72715b-986e-4f36-8100-c0da66ee2280)
 
  *d) Identified duplicate currency values.*
 
- <img width="959" alt="image" src="https://github.com/user-attachments/assets/51c5be07-e8ab-488e-89a5-2a6c6a6d021a" />
-
+ ![irrlevant records](https://github.com/user-attachments/assets/51c5be07-e8ab-488e-89a5-2a6c6a6d021a)
+ 
  
  ## Data Modelling, Data Cleaning and ETL(Extract, Transform, Load) using Power BI
 
@@ -66,8 +66,8 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 Performed data visualisation using Power BI to visualise key performance metrics.
 
-# Key Sales Insights
-<img width="595" alt="image" src="https://github.com/user-attachments/assets/c0f0d3d3-e541-447b-b098-61985ddbd0a5" />
+## Key Sales Insights
+![dashboard](https://github.com/user-attachments/assets/c0f0d3d3-e541-447b-b098-61985ddbd0a5)
 
 
 
