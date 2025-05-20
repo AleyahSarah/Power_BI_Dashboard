@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Technium Hardware is a company that supplies computer hardware and peripherals to many clients across India. Atliq Hardware has its head office in Delhi and it has many regional offices all over India.
+Technium Hardware is a company that supplies computer hardware and peripherals to many clients across India. Technium Hardware has its head office in Delhi and it has many regional offices all over India.
 
 In recent times, Technium Hardware has been facing a challenge. Their market has been growing rapidly and as a result of this, it has become difficult for the company to gather accurate insights of its business performance. 
 
