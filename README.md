@@ -61,6 +61,15 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 `= Table.AddColumn(#"Cleaned up currency", "norm_sales_amt", each if [currency] = "USD#(cr)" then [sales_amount] * 75 else [sales_amount]) `
 
 
+## Creating the Dashboard 
+
+Performed data visualisation using Power BI to visualise key performance metrics.
+
+
+| Key Insights |
+
+
+
  
  
 
