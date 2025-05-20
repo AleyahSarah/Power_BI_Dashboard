@@ -21,15 +21,15 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 2)Analysed the various tables using SQL queries in order to prepare for data cleaning and gathered the following insights.
 
-      a) *Identified irrelevant records containing markets_name "New York" and "Paris"*
+*a) Identified irrelevant records containing markets_name "New York" and "Paris"*
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/9ed9cfb1-7edc-4d0c-9ae6-1ac074e72bf7" />
 
-      b) Identified records containing currency value "USD" instead of "INR"
+*b) Identified records containing currency value "USD" instead of "INR".*
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/08cf2e11-b776-446e-bc5a-f01e45e14ccb" />
 
-      c) Identified records having sales_amount <= 0
+ *c) Identified records having sales_amount <= 0*
 
  <img width="959" alt="image" src="https://github.com/user-attachments/assets/dd72715b-986e-4f36-8100-c0da66ee2280" />
  
@@ -43,7 +43,10 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
  
  3) Used Power Query Editor to perform ETL(Extract, Transform, Load)
-          a) Filtered "markets_name" form "sales markets" to remove 
+*a) Filtered "markets_name" form "sales markets" table to remove records containing "New York" and "Paris"*
+*b) Filtered "sales_amount" from "sales transaction" table to remove values less than or equal to 0*
+*c) Converted USD currency to INR using the following formula:*
+```= Table.AddColumn(#"Cleaned up currency", "norm_sales_amt", each if [currency] = "USD#(cr)" then [sales_amount] * 75 else [sales_amount]) ```
 
  
  
