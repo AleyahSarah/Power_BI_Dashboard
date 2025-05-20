@@ -21,7 +21,7 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 2)Analysed the various tables using SQL queries in order to prepare for data cleaning and gathered the following insights.
 
-      a) Identified irrelevant records containing markets_name "New York" and "Paris".
+      a) *Identified irrelevant records containing markets_name "New York" and "Paris".*
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/9ed9cfb1-7edc-4d0c-9ae6-1ac074e72bf7" />
 
@@ -41,7 +41,9 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
  2) Used the star schema to organise the data model.
     <img width="959" alt="image" src="https://github.com/user-attachments/assets/b89f66a4-7eed-48d4-abfe-d025c202510f" />
 
- 4) 
+ 
+ 3) Used Power Query Editor to perform ETL(Extract, Transform, Load)
+          a) Filtered "markets_name" form "sales markets" to remove 
 
  
  
