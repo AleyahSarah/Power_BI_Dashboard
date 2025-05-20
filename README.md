@@ -6,11 +6,13 @@ Atliq Hardware is a company that supplies computer hardware and peripherals to m
 
 In recent times, Atliq Hardware has been facing a challenge. Their market has been growing rapidly and as a result of this, it has become difficult for the company to gather accurate insights of its business performance. 
 
-Previously, all insights about company performance were gathered verbally over the phone from different regional managers. However, this proved to be ineffective as the insights gathered were not always accurate and reliable. 
+Previously, all insights about company performance were gathered verbally over the phone from different regional managers. However, this proved to be ineffective as the insights gathered were neither accurate not reliable. 
 
 The company finds that its overall sales are declining and it is unable to make sense of its numbers due to the huge volumes presented in multiple excel files. Moreover, the company is unable to identify the areas on which it must focus due to the poor quality of insights.
 
-Atliq Hardware wants a solution to this problem that they are facing. It wants to create an effective and simple interactive dashboard from which it can easily understand and gather important insights from its business in order to improve performance.
+## Required Solution
+
+ Atliq Hardware wants to create an effective and simple interactive dashboard from which it can easily understand and gather important insights from its business in order to improve performance.
 
 
 ## Tech Stack
@@ -77,6 +79,15 @@ Performed data visualisation using Power BI to visualise key performance metrics
 
 ## Key Sales Insights
 ![dashboard](https://github.com/user-attachments/assets/c0f0d3d3-e541-447b-b098-61985ddbd0a5)
+
+
+## Business insights gained with the help of the dashboard
+* Underperforming markets
+* Growth opportunities
+* Key revenue drivers
+* Customer loyalty
+* Best Sellers
+* Revenue Trend 
 
 
 ## References
