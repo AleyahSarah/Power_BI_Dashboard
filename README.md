@@ -1,21 +1,19 @@
-# Sales Insights for Technium Hardware
+# Sales Insights From Power BI Dashboard
 
 ## Problem Statement
 
-Technium Hardware is a company that supplies computer hardware and peripherals to many clients across India. Technium Hardware has its head office in Delhi and it has many regional offices all over India.
+A company supplies computer hardware and peripherals to many clients across India. The company has its head office in Delhi and it has many regional offices all over India.
 
-In recent times, Technium Hardware has been facing a challenge. Their market has been growing rapidly and as a result of this, it has become difficult for the company to gather accurate insights of its business performance. 
+In recent times, it has been facing a challenge. Its market has been growing rapidly and as a result of this, it has become difficult for the company to gather accurate insights of its business performance. 
 
 Previously, all insights about company performance were gathered verbally over the phone from different regional managers. However, this proved to be ineffective as the insights gathered were neither accurate not reliable. 
 
 The company finds that its overall sales are declining and it is unable to make sense of its numbers due to the huge volumes presented in multiple excel files. Moreover, the company is unable to identify the areas on which it must focus due to the poor quality of insights.
 
-(*Note: "Technium Hardware" is a fictional company name used for demonstration purposes in this project.*)
-
 
 ## Required Solution
 
- Tecchnium Hardware wants to create an effective and simple interactive dashboard from which it can easily understand and gather important insights from its business in order to improve performance.
+ The company wants to create an effective and simple interactive dashboard from which it can easily understand and gather important insights from its business in order to improve performance.
 
 
 ## Tech Stack
