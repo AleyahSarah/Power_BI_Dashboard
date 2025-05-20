@@ -65,8 +65,9 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 Performed data visualisation using Power BI to visualise key performance metrics.
 
+# Key Sales Insights
+<img width="789" alt="image" src="https://github.com/user-attachments/assets/4d58e44b-8996-4505-8b29-e7fd4cd0a3ad" />
 
-| Key Insights |
 
 
 
