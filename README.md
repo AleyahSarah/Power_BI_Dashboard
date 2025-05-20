@@ -32,9 +32,12 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
  *c) Identified records having sales_amount <= 0*
 
  <img width="959" alt="image" src="https://github.com/user-attachments/assets/dd72715b-986e-4f36-8100-c0da66ee2280" />
+
+ *d) Identified duplicate currency values.*
+
+ <img width="959" alt="image" src="https://github.com/user-attachments/assets/51c5be07-e8ab-488e-89a5-2a6c6a6d021a" />
+
  
-
-
  ## Data Modelling, Data Cleaning and ETL(Extract, Transform, Load) using Power BI
 
  1) Connected Power BI Desktop to MySQL using a MySQL connector and loaded the sales database onto Power BI.
@@ -51,8 +54,12 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 *b) Filtered "sales_amount" from "sales transaction" table to remove values less than or equal to 0*
 
 
-*c) Converted USD currency to INR using the following formula:*
+*c) Removed the duplicate currencies from the "sales transactions" table*
+
+
+*d) Converted USD currency to INR using the following formula:*
 `= Table.AddColumn(#"Cleaned up currency", "norm_sales_amt", each if [currency] = "USD#(cr)" then [sales_amount] * 75 else [sales_amount]) `
+
 
  
  
