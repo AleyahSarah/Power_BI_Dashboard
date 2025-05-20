@@ -20,9 +20,9 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 2)Analysed the various tables using SQL queries in order to prepare for data cleaning and gathered the following insights.
 
-      a) Identified irrelevant records containing markets_name New York and Paris.
+      a) Identified irrelevant records containing markets_name "New York" and "Paris".
 
-      <img width="959" alt="image" src="https://github.com/user-attachments/assets/a665ce44-305b-47a3-85b7-a9e009093d79" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a665ce44-305b-47a3-85b7-a9e009093d79" />
 
 
 
