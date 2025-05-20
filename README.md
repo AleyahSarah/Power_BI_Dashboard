@@ -1,6 +1,6 @@
 # Sales Insights for Atliq Hardware
 
-## Problem Statement:
+## Problem Statement
 
 Atliq Hardware is a company that supplies computer hardware and peripherals to many clients across India. Atliq Hardware has its head office in Delhi and it has many regional offices all over India.
 
@@ -12,7 +12,7 @@ The company finds that its overall sales are declining and it is unable to make 
 
 Atliq Hardware wants a solution to this problem that they are facing. It wants to create an effective and simple interactive dashboard from which it can easily understand and gather important insights from its business in order to improve performance.
 
-**Data Analysis using MySQL:**
+## Data Analysis using MySQL
 
 1)Imported data into MySQL Workbench form an already existing MySQL file and loaded the sales database onto MySQL.
 
@@ -35,7 +35,7 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
  
 
 
- **Data Modelling, Data Cleaning and ETL(Extract, Transform, Load) using Power BI:**
+ ## Data Modelling, Data Cleaning and ETL(Extract, Transform, Load) using Power BI
 
  1) Connected Power BI Desktop to MySQL using a MySQL connector and loaded the sales database onto Power BI.
  2) Used the star schema to organise the data model.
