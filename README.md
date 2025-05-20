@@ -33,7 +33,7 @@ The company finds that its overall sales are declining and it is unable to make 
 
 2)Analysed the various tables using SQL queries in order to prepare for data cleaning and gathered the following insights.
 
-*a) Identified irrelevant records containing markets_name "New York" and "Paris"*
+**) Identified irrelevant records containing markets_name "New York" and "Paris"*
 
 ![irrelevant records](https://github.com/user-attachments/assets/9ed9cfb1-7edc-4d0c-9ae6-1ac074e72bf7)
 
