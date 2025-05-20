@@ -1,10 +1,10 @@
-# Sales Insights for Atliq Hardware
+# Sales Insights for Technium Hardware
 
 ## Problem Statement
 
-Atliq Hardware is a company that supplies computer hardware and peripherals to many clients across India. Atliq Hardware has its head office in Delhi and it has many regional offices all over India.
+Technium Hardware is a company that supplies computer hardware and peripherals to many clients across India. Atliq Hardware has its head office in Delhi and it has many regional offices all over India.
 
-In recent times, Atliq Hardware has been facing a challenge. Their market has been growing rapidly and as a result of this, it has become difficult for the company to gather accurate insights of its business performance. 
+In recent times, Technium Hardware has been facing a challenge. Their market has been growing rapidly and as a result of this, it has become difficult for the company to gather accurate insights of its business performance. 
 
 Previously, all insights about company performance were gathered verbally over the phone from different regional managers. However, this proved to be ineffective as the insights gathered were neither accurate not reliable. 
 
@@ -12,7 +12,7 @@ The company finds that its overall sales are declining and it is unable to make 
 
 ## Required Solution
 
- Atliq Hardware wants to create an effective and simple interactive dashboard from which it can easily understand and gather important insights from its business in order to improve performance.
+ Tecchnium Hardware wants to create an effective and simple interactive dashboard from which it can easily understand and gather important insights from its business in order to improve performance.
 
 
 ## Tech Stack
