@@ -92,6 +92,7 @@ Performed data visualisation using Power BI to visualise key performance metrics
 
 ## References
 https://codebasics.io/resources/sales-insights-data-analysis-project
+
 https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&index=1
 
 
