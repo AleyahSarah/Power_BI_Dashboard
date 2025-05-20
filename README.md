@@ -57,7 +57,7 @@ The company finds that its overall sales are declining and it is unable to make 
     <img width="959" alt="image" src="https://github.com/user-attachments/assets/b89f66a4-7eed-48d4-abfe-d025c202510f" />
 
  
- 3) Used Power Query Editor to perform ETL(Extract, Transform, Load)
+3) Used Power Query Editor to perform ETL(Extract, Transform, Load)
 
     
 *a) Filtered "markets_name" form "sales markets" table to remove records containing "New York" and "Paris"*
