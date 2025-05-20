@@ -12,6 +12,15 @@ The company finds that its overall sales are declining and it is unable to make 
 
 Atliq Hardware wants a solution to this problem that they are facing. It wants to create an effective and simple interactive dashboard from which it can easily understand and gather important insights from its business in order to improve performance.
 
+
+## Tech Stack
+
+* MySQL
+* Power BI Desktop
+* Power Query Editor
+* DAX (Data Analysis Expressions)
+
+
 ## Data Analysis using MySQL
 
 1)Imported data into MySQL Workbench form an already existing MySQL file and loaded the sales database onto MySQL.
@@ -68,6 +77,13 @@ Performed data visualisation using Power BI to visualise key performance metrics
 
 ## Key Sales Insights
 ![dashboard](https://github.com/user-attachments/assets/c0f0d3d3-e541-447b-b098-61985ddbd0a5)
+
+
+## References
+https://codebasics.io/resources/sales-insights-data-analysis-project
+https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&index=1
+
+
 
 
 
