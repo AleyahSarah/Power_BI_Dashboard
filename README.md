@@ -25,13 +25,18 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/9ed9cfb1-7edc-4d0c-9ae6-1ac074e72bf7" />
 
-      b) Identified records containing USD instead of INR
+      b) Identified records containing currency value "USD" instead of "INR"
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/08cf2e11-b776-446e-bc5a-f01e45e14ccb" />
 
       c) Identified records having sales_amount <= 0
 
  <img width="959" alt="image" src="https://github.com/user-attachments/assets/dd72715b-986e-4f36-8100-c0da66ee2280" />
+
+
+ **Data Cleaning and ETL(Extract, Transform, Load) using Power BI**
+
+ 
      
       
       
