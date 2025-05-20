@@ -43,8 +43,14 @@ Atliq Hardware wants a solution to this problem that they are facing. It wants t
 
  
  3) Used Power Query Editor to perform ETL(Extract, Transform, Load)
+
+    
 *a) Filtered "markets_name" form "sales markets" table to remove records containing "New York" and "Paris"*
+
+
 *b) Filtered "sales_amount" from "sales transaction" table to remove values less than or equal to 0*
+
+
 *c) Converted USD currency to INR using the following formula:*
 ```= Table.AddColumn(#"Cleaned up currency", "norm_sales_amt", each if [currency] = "USD#(cr)" then [sales_amount] * 75 else [sales_amount]) ```
 
