@@ -4,7 +4,7 @@
 
 A company supplies computer hardware and peripherals to many clients across India. The company has its head office in Delhi and it has many regional offices all over India.
 
-In recent times, it has been facing a challenge. Its market has been growing rapidly and as a result of this, it has become difficult for the company to gather accurate insights of its business performance. 
+In recent times, it has been facing a challenge. Its market has been growing rapidly and as a result of this, it has become difficult for the company to gather accurate insights on its business performance. 
 
 Previously, all insights about company performance were gathered verbally over the phone from different regional managers. However, this proved to be ineffective as the insights gathered were neither accurate not reliable. 
 
