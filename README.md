@@ -1,4 +1,4 @@
-# Sales Insights From Power BI Dashboard
+# Sales Insights Data Analysis Project
 
 ## Problem Statement
 
