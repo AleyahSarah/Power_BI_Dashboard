@@ -79,7 +79,8 @@ The company finds that its overall sales are declining and it is unable to make 
 Performed data visualisation using Power BI to visualise key performance metrics.
 
 ## Key Sales Insights
-![dashboard](https://github.com/user-attachments/assets/c0f0d3d3-e541-447b-b098-61985ddbd0a5)
+![dashboard](https://github.com/user-attachments/assets/5c596bbe-dc75-49db-837c-ecb867dd87bc)
+
 
 
 ## Business insights gained with the help of the dashboard
